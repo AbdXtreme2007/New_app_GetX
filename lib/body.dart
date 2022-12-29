@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import './constants.dart';
-import './question_controller.dart';
+import 'questionController.dart';
 import './Questions.dart';
 import 'package:flutter_svg/svg.dart';
 
